@@ -1,0 +1,109 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    background-color: #576F72;
+}
+
+/* E4DCCF
+7D9D9C
+576F72 */
+
+.main{
+    width: 60%;
+    background-color:whitesmoke;
+    margin-left: 16%;
+    margin-top: 80px;
+    min-width: 375px;
+    padding: 80px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 10px 25px;
+    
+}
+
+.personaldetails{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #576F72;
+}
+
+h1{
+    text-align: center;
+    font-size: 42px;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    padding: 30px;
+    font-weight: bold;
+}
+
+p, li, td, th{
+    color:black;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+table{
+    margin-left: 5%;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+th, td{
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: lightgray;
+    color: black;
+  }
+
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+#type{
+    width: 20px;
+}
+
+input{
+    margin-top: 15px;
+    padding: 8px;
+    width: 100%;
+}
+
+#project{
+    padding-top: 100px;
+    width: 100%;
+}
+
+label{
+    font-weight: bold;
+}
+
+.divform{
+    width: 60%;
+    margin-left: 20%;
+
+}
+
+img{
+    width: 100px;
+    height: 80px;
+    border-radius: 5px;
+    margin-left: 8px;
+}
+.affiliations{
+    margin-left: 60px;
+}
+
+
+.tc{
+    width: 300px;
+}
